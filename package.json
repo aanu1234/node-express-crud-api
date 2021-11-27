@@ -1,0 +1,17 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "Node Express JS CRUD API sample",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server"
+  },
+  "author": "Okanlawon Anuoluwapo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
